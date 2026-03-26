@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto acompanhado da RocketSeat, que cria uma espécie de repositório de social-links. 
+Projeto acompanhado da RocketSeat, que cria uma espécie de portfólio de social-links. 
 
 ## :memo: Licença
 
